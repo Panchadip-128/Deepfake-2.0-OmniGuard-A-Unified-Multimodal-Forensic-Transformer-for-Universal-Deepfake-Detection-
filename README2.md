@@ -81,7 +81,7 @@ No manipulated media is included.
 
 ---
 
-# ✅ **SECTION 5 — METRICS + CITATION + DISCLAIMER**
+# **SECTION 5 — METRICS + CITATION + DISCLAIMER**
 
 ```markdown
 ## 📊 Evaluation Metrics
@@ -102,3 +102,11 @@ No manipulated media is included.
 - AV misalignment score  
 
 ---
+
+---
+
+## Disclaimer
+This repository is intended **strictly for defensive research**.  
+It must not be used to generate, distribute, or promote manipulated media and if used authors are kindly requested to acknowledge this contribution if ever this is used for any kind; even if a part of this has been put into use.
+
+The authors and contributors are not responsible for misuse.
