@@ -14,7 +14,7 @@ This research is **non-incremental**, **multimodal**, and **provenance-aware**, 
 
 ---
 
-## 🔐 Responsible Use Policy
+##  Responsible Use Policy
 
 - This repository **does NOT generate deepfakes**.  
 - No manipulated media is included.  
@@ -24,7 +24,7 @@ This research is **non-incremental**, **multimodal**, and **provenance-aware**, 
 
 OmniGuard complies with Responsible AI and A*/A+ conference ethics guidelines.
 
-## 🚀 Key Research Novelties
+##  Key Research Novelties
 
 OmniGuard introduces nine major innovations:
 
@@ -81,7 +81,7 @@ No manipulated media is included.
 
 ---
 
-# ✅ **SECTION 5 — METRICS + CITATION + DISCLAIMER (Copy-Paste Block 5)**
+# ✅ **SECTION 5 — METRICS + CITATION + DISCLAIMER**
 
 ```markdown
 ## 📊 Evaluation Metrics
